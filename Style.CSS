@@ -1,0 +1,39 @@
+header{
+    background-image: url(https://previdar.com/wp-content/uploads/2016/08/BACARDI-HOUSE-PARTY-16.jpeg);
+    background-repeat: no-repeat; 
+    width: 300px;
+    background-position: center;
+    align-items: stretch;
+    }
+
+h1{
+    color: red;
+     text-align: center;
+     height: 250px;
+     
+     }
+  
+
+h2{ 
+    text-align: center;
+    color: grey;
+    font-family: 'Fjalla One', sans-serif;
+}
+    
+p{
+    background-color: indianred;
+    font-family: 'IM Fell DW Pica', serif;
+    
+}
+
+button{
+margin: 9px;
+
+}
+
+footer{
+    background-color: green;
+    height: 250px;
+    }
+
+    
