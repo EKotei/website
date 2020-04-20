@@ -1,18 +1,29 @@
 header{
-    background-image: url(https://previdar.com/wp-content/uploads/2016/08/BACARDI-HOUSE-PARTY-16.jpeg);
-    background-repeat: no-repeat; 
-    width: 300px;
-    background-position: center;
-    align-items: stretch;
-    }
+    
+    background-image: url(file:///C:/Users/Edmun/Desktop/JS/bacardihouseparty-philly-8.jpg);
+    align-items: center;
+    height: 150px;
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: right;
+    }   
+    
+        
+img{
+    width: fit-content;
+    height: fit-content;
+}
 
 h1{
     color: red;
      text-align: center;
      height: 250px;
+     text-shadow: black;
      
      }
-  
+     
+    
+    
 
 h2{ 
     text-align: center;
@@ -22,8 +33,14 @@ h2{
     
 p{
     background-color: indianred;
-    font-family: 'IM Fell DW Pica', serif;
-    
+    font-family: 'IM Fell DW Pica', serif;    
+}
+
+h4{
+    color: black;
+}
+h6{
+    color: gray;
 }
 
 button{
@@ -31,9 +48,36 @@ margin: 9px;
 
 }
 
+body{
+    background-color: black
+}
+
 footer{
-    background-color: green;
-    height: 250px;
+    background-color:white;
+    height: 100px;
+    
+    
     }
+    
+    .card{
+        background-color: black;
+    }
+
+    nav{
+        height: 40px;
+    }
+
+    span{
+        background-image: image("opening text");
+    }
+    
+    
+#special{
+    color: gray;
+}
+    
+.logo{
+    color: black;
+}
 
     
